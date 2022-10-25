@@ -3,7 +3,7 @@ I'm joejoe. I mostly stream on twitch, however I code sometimes too... This is m
 
 
 - 🔭 I’m currently working on 100 day coding challenge
-- 🌱 I’m currently learning: im learning coding!!
+- 🌱 I’m currently learning: coding!!
 - 🤔 I’m looking for help with anything, im still learning
 - 📫 How to reach me: please email me at joejoe@joejoe.tech
 - 😄 Pronouns: he/they pronouns
