@@ -17,7 +17,9 @@ I'm joejoe. I mostly stream on twitch, however I code sometimes too... This is m
 
 10% banging my head on my desk
 
-30% Programming
+15% Programming
+
+15% Procrastination
 
 5% Copy and pasting from github
 
