@@ -1,4 +1,4 @@
-[![joejoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joejoe135791)](https://github.com/anuraghazra/github-readme-stats)
+[![joejoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joejoe135791&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### Hey 👋
 I'm joejoe. I mostly stream on twitch, however I code sometimes too... This is my GitHub for coding and diving into the open source community
 
